@@ -16,7 +16,7 @@ Thanks the user for using the program and apologises for wasting 5 second of the
 ** CODE BREAKDOWN ** 
 A very basic program to test myself and my beginners knowledge of the Python3 syntax
 The problem consists mainly of PRINT statements, some input functions and some concatenations.
-
+Includes a ASCII image
 
 ** Written & Debugged by : Habibu Masudi
 ** 02/2019 
