@@ -9,23 +9,21 @@ Original file is located at
 
 # This progam says Hello and asks for your name, and tries to be your chatbot friend
 
+
 print("Hello there, my name is Mapenzi, it means LOVE in Swahili.")
+print()
 print("If you dont mind, what is your name ?")  #Asks for the their name
 print("By the way, just type your name, dont start by saying MY NAME IS.... like you a child, lol.")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-
-name=input("What's your name?")
+print()
+print()
+print()
+myName=input("What's your name?")
 print("\n")
 print("         \\|||||/        ")
 print("         ( O O )         ")
 print("|--ooO-----(_)--------------|")
 print("|                           |")
-print("|    Hello " + name +"      |") 
+print("|    Hello " + myName +"      |") 
 print("|                           |")
 print("|   Welcome to my first     |")
 print("|       Python program      |")
@@ -34,39 +32,35 @@ print("|------------------Ooo------|")
 print("         |__||__|        ")
 print("          ||  ||         ")
 print("         ooO  Ooo        ")
-print("|             ")
-print("|             ")
-print("|             ")
+print()
+print()
+print()
 
-print("Lol, not the best name I've heard this year, anyways...")
 print("It is very nice to meet you, " + myName) #Prints the message followed by the input name
 print("The total amount of characters on your name is: ")
 print(len(myName))
 print("Which is not bad for a humans name.")
 print("What is your age?") #Asks for their age
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
+print()
+print()
+print()
 
 myAge = input() # Allows them to input their age
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
+print("\n")
+print()
+print()
+print()
 print("You will be " + str(int(myAge) + 10) + " in 10 years time.")
 print("Do you know what that means ?? Well... absolutely nothing but I just thought was cool to let you know, LOL.")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
-print("|             ")
+print()
 print("Thanks for spending 5 seconds of your precious life to test this little program \n you can see Im new to this.")
-
+print()
+print()
+print()
+print()
+print("Written by : Habibu Masudi")
+print("Project ZERO")
+#
 
 #
 # --------------> NOTES <---------------------
